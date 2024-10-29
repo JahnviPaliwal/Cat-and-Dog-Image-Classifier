@@ -1,6 +1,5 @@
 
 # Cat and Dog Image Classifier
-
 This project provides an opportunity for learners to apply deep learning techniques to a practical problem, enhancing their understanding of image classification. Participants utilize a dataset containing images of cats and dogs, which are used to train a model capable of recognizing and classifying these images effectively.
 
 
